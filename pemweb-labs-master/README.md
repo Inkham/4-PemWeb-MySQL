@@ -1,2 +1,3 @@
 # pemweb-labs
-Video sharing website using PHP for web programming course
+Streaming Website using combination of PHP and MySQL
+
